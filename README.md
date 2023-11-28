@@ -1,7 +1,7 @@
 # docker-main
 # Atividade Sistemas Distribuidos
 
-## Executar a lista de comandos a seguir no labs play with docker
+### Executar a lista de comandos a seguir no labs play with docker:
 
 docker swarm init --advertise-addr (ip do primeiro node)
 
